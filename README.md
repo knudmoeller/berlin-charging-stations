@@ -1,5 +1,12 @@
 A simple makefile and Ruby script to download a GML-file with charging stations in Berlin from a WFS-Service (see https://energieatlas.berlin.de) and transform it into CSV.
 
+## Output
+
+The output CSV-file lives in:
+
+* raw: [data/target/elektro-ladesäulen-berlin.csv](data/target/elektro-ladesäulen-berlin.csv) (raw)
+* github's CSV-viewer: [elektro-ladesäulen-berlin.csv](https://github.com/knudmoeller/berlin-charging-stations/blob/master/data/target/elektro-ladesäulen-berlin.csv) ()
+
 ## Requirements
 
 * Ruby
@@ -29,5 +36,6 @@ All software in this repository is published under the [MIT License](LICENSE).
 ---
 
 2020, Knud Möller
+https://github.com/knudmoeller/berlin-charging-stations
 
 Last changed: 2020-06-15
