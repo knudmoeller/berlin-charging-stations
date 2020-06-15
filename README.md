@@ -4,8 +4,8 @@ A simple makefile and Ruby script to download a GML-file with charging stations 
 
 The output CSV-file lives in:
 
-* raw: [data/target/elektro-ladesäulen-berlin.csv](data/target/elektro-ladesäulen-berlin.csv) (raw)
-* github's CSV-viewer: [elektro-ladesäulen-berlin.csv](https://github.com/knudmoeller/berlin-charging-stations/blob/master/data/target/elektro-ladesäulen-berlin.csv) ()
+* raw: [data/target/elektro-ladesäulen-berlin.csv](data/target/elektro-ladesäulen-berlin.csv)
+* github's CSV-viewer: [elektro-ladesäulen-berlin.csv](https://github.com/knudmoeller/berlin-charging-stations/blob/master/data/target/elektro-ladesäulen-berlin.csv)
 
 ## Requirements
 
