@@ -14,7 +14,7 @@ The output CSV-file lives in:
 
 ## Running
 
-```bash
+```
 $ make data
 downloading data/temp/elektro-ladesäulen.xml from WFS service
 writing to data/temp/elektro-ladesäulen.xml ...
