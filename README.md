@@ -36,6 +36,6 @@ All software in this repository is published under the [MIT License](LICENSE).
 ---
 
 2020, Knud Möller
-https://github.com/knudmoeller/berlin-charging-stations
+[https://github.com/knudmoeller/berlin-charging-stations](https://github.com/knudmoeller/berlin-charging-stations)
 
 Last changed: 2020-06-15
